@@ -1,0 +1,22 @@
+body{
+	background-color: #99ffcc;
+}
+
+.graph {
+	display: block;
+	margin: 40px auto;
+	background-color: #fff;
+}
+
+
+
+div.tooltip {	
+    position: absolute;			
+    padding: 10px;				
+    font: 12px Courier New
+Lucida Console;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
